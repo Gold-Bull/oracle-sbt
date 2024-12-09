@@ -1,6 +1,7 @@
 ## Overview
 
 Oracle SBT for Cloud Storage enables the backup and restoration of Oracle databases to and from cloud storage.
+
 Utilized [Clean-room design](https://en.wikipedia.org/wiki/Clean-room_design) principles to understand the Oracle Media Management Layer (MML) API and developed the corresponding functionality.
 
 This library is useful
@@ -31,6 +32,7 @@ This library is useful
 1. Download the library archive
 
    a. [Linux]()
+   
    b. [Windows]()
 
 2. Extract the library archive to a folder
