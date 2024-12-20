@@ -27,13 +27,11 @@ This library is useful
 
 ## Installation
 
-**NOTE: Target release date is 14<sup>th</sup> December 2024. Links will be upload post release.**
-
 1. Download the library archive
 
-   a. [Linux]()
+   a. [Linux](https://sasgrsv2cind59037.blob.core.windows.net/oracle-sbt/1.0.0.0/gbosfcs-1.0.0-linux-x64.tar.gz)
    
-   b. [Windows]()
+   b. [Windows](https://sasgrsv2cind59037.blob.core.windows.net/oracle-sbt/1.0.0.0/gbosfcs-1.0.0.0-windows-x64.zip)
 
 2. Extract the library archive to a folder
 
